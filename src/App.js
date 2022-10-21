@@ -5,7 +5,7 @@ function App() {
   return <div>Hello {value}
             <hr>
             Здравей :)
-          </div>;
+          </div>
 }
 
 export default App;
